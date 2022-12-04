@@ -32,3 +32,5 @@
 
 
 # Imprimir en pantalla la variable contenidos_curso
+contenidos_curso = ['python' , 'variables' , 'condicionales' , 'listas' ,'bucles']
+print(contenidos_curso)

@@ -30,6 +30,15 @@
 # el programa paso a paso
 numeros = [1, 5, -1, 6, 10, 2, -5]
 
-
 # Imprimir en pantalla la variable suma_total
 # El resultado final de la suma deberá ser 24
+suma_total = 0
+
+for numero in numeros:
+    if numero > 0:
+        suma_total += numero
+print(suma_total)
+    
+    
+
+
